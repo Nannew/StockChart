@@ -25,7 +25,7 @@
 * C++: Qt
 
 ## Part 1 - Python
-1. Run ExportCSV_Python/exportcsv.py to download stock history data with stock symbol, interval, and time range, e.g. Save 1-day "SPX" data between "13/30/1927" and "12/4/2020" to "spx.csv" file.
+1. Run ExportCSV_Python/exportcsv.py to download stock history data with stock symbol, interval, and time range, e.g. Save 1-day "SPX" data between "12/30/1927" and "12/4/2020" to "spx.csv" file.
 Note that, the stock history data can also be downloaded directly from Yahoo Finance website.
 2. Run ExportCSV_Python/readcsv2.py to calculate and save stock and indicators as CSV file, e.g. Save 1-day "SPX" price and indicators to "spxMetric.csv"
 <img src="../main/images/11.png?raw=true" height="400">
